@@ -1,0 +1,18 @@
+
+button {
+    width: 200px;
+    border: none;
+    font-size: 16px;
+    line-height: 28px;
+    cursor: pointer;
+}
+
+#start-race {
+    color: white;
+    background-color: #5cb85c;
+}
+
+#reset-race {
+    color: white;
+    background-color: #5bc0de;
+}
